@@ -28,6 +28,7 @@ Hi all I'm Harsh 👋
 <br/>
 
 <p align='center'>Contact Me ☎️
+  <br>
 DISCUSS A PROJECT OR JUST WANT TO SAY HI MY INBOX IS OPEN FOR ALL
 
 +91-9033123754
