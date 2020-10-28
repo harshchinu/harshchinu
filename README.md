@@ -1,11 +1,8 @@
-### Hi 👋 there, I'm Avinash Kumar Singh
+Hi all I'm Harsh 👋
 
-## I'm a MERN Stack Developer!
+## I'm a Full Stack Software Developer
 
-- 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I am cricket lover
+- A Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Java / Android and some other cool libraries and frameworks
 
 ### Languages and Tools:
 
@@ -30,5 +27,10 @@
 
 <br/>
 
-<p align='center'>For enquiries, contact me at mharsh301@gmail.com.</p>
+<p align='center'>Contact Me ☎️
+DISCUSS A PROJECT OR JUST WANT TO SAY HI MY INBOX IS OPEN FOR ALL
+
++91-9033123754
+
+mharsh301@gmail.com</p>
 
