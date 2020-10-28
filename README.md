@@ -29,9 +29,9 @@ Hi all I'm Harsh 👋
 
 <p align='center'>Contact Me ☎️
   <br>
-DISCUSS A PROJECT OR JUST WANT TO SAY HI MY INBOX IS OPEN FOR ALL
+DISCUSS A PROJECT OR JUST WANT TO SAY HI MY INBOX IS OPEN FOR ALL<p>
 
-+91-9033123754
+<p align='center'> +91-9033123754 </p>
 
-mharsh301@gmail.com</p>
+<p align='center'>mharsh301@gmail.com</p>
 
