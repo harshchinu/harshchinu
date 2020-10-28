@@ -24,11 +24,11 @@
 <details open>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Avinash7986&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=harshchinu&show_icons=true&hide_border=true" />
 
 </details>
 
 <br/>
 
-<p align='center'>For enquiries, contact me at avinashsingh7986@gmail.com or over on <a href="https://twitter.com/avinash7986">Twitter</a>.</p>
+<p align='center'>For enquiries, contact me at mharsh301@gmail.com.</p>
 
